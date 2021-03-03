@@ -14,7 +14,6 @@ const Login = () => {
   const submitHandler = e => {
     if (Object.keys.length === 0 && newUser) {
     }
-    
     e.preventDefault();
   }
 
