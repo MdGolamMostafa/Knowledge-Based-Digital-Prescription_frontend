@@ -1,2 +1,2 @@
-# Smart Prescription
+# Knowledge-Based-Digital-Prescription
 
